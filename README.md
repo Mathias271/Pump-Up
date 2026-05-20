@@ -1,4 +1,4 @@
-#
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=45&duration=3000&pause=1000&color=C9A227&center=true&vCenter=true&width=600&lines=PUMP+UP" />
 </h1>
